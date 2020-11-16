@@ -1,0 +1,3 @@
+graft mlpackage
+global-exclude *.py[cod] __pycache__ *.so *.ipynb
+recursive-exclude  mlpackage/jupy *
